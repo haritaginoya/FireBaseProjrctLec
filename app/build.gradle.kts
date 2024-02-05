@@ -53,4 +53,9 @@ dependencies {
     implementation("com.google.firebase:firebase-storage")
     implementation("androidx.browser:browser:1.7.0")
 
+
+    implementation("com.firebaseui:firebase-ui-database:8.0.2")
+
+
+
 }

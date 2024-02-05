@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "697288502401",
-    "project_id": "myproject-b5fca",
-    "storage_bucket": "myproject-b5fca.appspot.com"
+    "project_number": "724102581775",
+    "project_id": "newproject-1b9d2",
+    "storage_bucket": "newproject-1b9d2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:697288502401:android:bd70bc1f8c972c5aa23180",
+        "mobilesdk_app_id": "1:724102581775:android:d1c3ec0aa2c34a66e21d7a",
         "android_client_info": {
           "package_name": "com.example.firebase"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBKGsrViyWaSpLCcElbjyZ3NMFmpDD6Er4"
+          "current_key": "AIzaSyBnvWrUiHFZ15ndVVQAHz6VjNK4jpHG5Zg"
         }
       ],
       "services": {
